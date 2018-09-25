@@ -2,8 +2,8 @@
 
 I am a PhD candidate in statistics at <span style="color:black">[Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/)</span> of [University of Waterloo](https://uwaterloo.ca/). I obtained my Master of Science in Statistics from [Department of Statistics](https://www.stat.ubc.ca/) of [The University of British Columbia](https://www.ubc.ca/) and my Bachelor of Science from [University of Notre Dame](https://www.nd.edu/).
 
-I have solid knowledge and application skills in quantitative analysis and machine learning. I have abundant experience with high-dimensional data analysis and time series, as well as high performance scientific computing involving GPU acceleration and parallelization. I am looking for an internship where I can work on challenging projects in data mining, machine learning, and statistical modeling modeling.
+I have solid knowledge background and application skills in quantitative analysis and machine learning. I also have abundant experience with high-dimensional data analysis and time series, as well as high performance scientific computing involving GPU acceleration and parallelization. I am looking for an internship where I can work on challenging projects in data mining, machine learning, and statistical modeling modeling.
 
-For the detailed resume please see [here](https://github.com/PatrickXie17/Resume/blob/master/resume_XYJ_Sept18.pdf).
+For the full resume please see [here](https://github.com/PatrickXie17/Resume/blob/master/resume_XYJ_Sept18.pdf).
 
-Check my [repositories](https://github.com/PatrickXie17?tab=repositories) for more information about the projects I am working on.
+Check my [repositories](https://github.com/PatrickXie17?tab=repositories) for detailed information about the projects I am working on.
