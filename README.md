@@ -4,6 +4,6 @@ I am a PhD candidate in statistics at <span style="color:black">[Department of S
 
 I have solid knowledge background and application skills in quantitative analysis and machine learning. I also have abundant experience with high-dimensional data analysis and time series, as well as high performance scientific computing involving GPU acceleration and parallelization. I am looking for an internship where I can work on challenging projects in data mining, machine learning, and statistical modeling modeling.
 
-For the full resume please see [here](https://github.com/PatrickXie17/About_Me/blob/master/Resume_Xie_Yijun_Nov18.pdf).
+Please find my resume [here](https://github.com/PatrickXie17/About_Me/blob/master/resume_Xie_Yijun.pdf), and the full CV [here](https://github.com/PatrickXie17/About_Me/blob/master/cv_Yijun_Xie.pdf).
 
 Check my [repositories](https://github.com/PatrickXie17?tab=repositories) for detailed information about the projects I am working on.
